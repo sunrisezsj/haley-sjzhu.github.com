@@ -22,6 +22,7 @@ Here is some introduction about my educational background below:
 - Other main courses... 
 
 2. Computer Technology(at SIAT)
+- Mobile Intelligence
 - Comments to be added...
 
 
