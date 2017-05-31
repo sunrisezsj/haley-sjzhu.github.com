@@ -11,11 +11,11 @@ As a senior student at University 0f Electronic Science and Technology of China(
 ```markdown
 Here is some introduction about my educational background below:
 
-# My College
-If you want to know something about UESTC,click the link([www.uestc.edu.cn]).
-If you want to know something about SIAT,click the link([www.siat.ac.cn]).
+My College
+If you want to know something about UESTC,click [here](https://www.uestc.edu.cn).
+If you want to know something about SIAT,click [here](https://www.siat.ac.cn).
 
-## My Major
+My Major
 1. Information Security(at UESTC)
 - Cryptology
 - Mathematical base for information security
@@ -29,8 +29,14 @@ If you want to know something about SIAT,click the link([www.siat.ac.cn]).
 
 ### Personal Academic Interests
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunrisezsj/haley-sjzhu.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Deep learning
+- Data mining
+- Comments to be added...
+
 
 ### Hobbies
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Soft brush calligraphy
+- Badminton playing
+- Body building
+- Singing Karaoke
