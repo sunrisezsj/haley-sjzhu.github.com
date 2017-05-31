@@ -12,8 +12,8 @@ As a senior student at University 0f Electronic Science and Technology of China(
 Here is some introduction about my educational background below:
 
 My College
-If you want to know something about UESTC,click [here](https://www.uestc.edu.cn).
-If you want to know something about SIAT,click [here](https://www.siat.ac.cn).
+If you want to know something about UESTC,click here(https://www.uestc.edu.cn).
+If you want to know something about SIAT,click here(https://www.siat.ac.cn).
 
 My Major
 1. Information Security(at UESTC)
